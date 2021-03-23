@@ -4,6 +4,10 @@
   margin: 0 auto;
 }
 
+.inner {
+  padding: 15px;
+}
+
 .field {
   display: flex;
   flex-direction: column;
